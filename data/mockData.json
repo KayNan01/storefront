@@ -1,0 +1,2741 @@
+{
+  "_meta": {
+    "note": "All data in this file is fictional and generated for demonstration purposes only.",
+    "currency": "USD",
+    "generatedFor": "Trove portfolio demo"
+  },
+  "products": [
+    {
+      "id": "prod_0001",
+      "title": "Arc Mini Desk Fan",
+      "description": "A quiet, rechargeable desk fan with three speeds and a tilting head. Runs up to 8 hours on one charge over USB-C.",
+      "handle": "arc-mini-desk-fan",
+      "tags": ["gadget", "tech", "desk", "usb", "portable"],
+      "productType": "Fans",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "24.99",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "34.99",
+          "currencyCode": "USD"
+        }
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/arc-mini-desk-fan.jpg",
+              "altText": "Arc Mini Desk Fan"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0001_01",
+              "title": "Sage",
+              "price": {
+                "amount": "24.99",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": {
+                "amount": "34.99",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Sage"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "var_0001_02",
+              "title": "Sand",
+              "price": {
+                "amount": "24.99",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": {
+                "amount": "34.99",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Sand"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "var_0001_03",
+              "title": "Charcoal",
+              "price": {
+                "amount": "24.99",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": {
+                "amount": "34.99",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Charcoal"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Sage", "Sand", "Charcoal"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0002",
+      "title": "Halo LED Desk Lamp",
+      "description": "A slim, foldable lamp with five brightness levels and a warm-to-cool color slider. Takes up almost no space on your desk.",
+      "handle": "halo-led-desk-lamp",
+      "tags": ["gadget", "smart-home", "desk", "lamp", "led"],
+      "productType": "Lighting",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "39.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": null,
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/halo-led-desk-lamp.jpg",
+              "altText": "Halo LED Desk Lamp"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0002_01",
+              "title": "White",
+              "price": {
+                "amount": "39.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Finish",
+                  "value": "White"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "var_0002_02",
+              "title": "Graphite",
+              "price": {
+                "amount": "39.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Finish",
+                  "value": "Graphite"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Finish",
+          "values": ["White", "Graphite"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0003",
+      "title": "Pocket Power Bank 10K",
+      "description": "A 10,000 mAh power bank about the size of a phone. Charges a phone roughly twice and fits in a jacket pocket.",
+      "handle": "pocket-power-bank-10k",
+      "tags": ["gadget", "tech", "portable", "travel", "charger"],
+      "productType": "Chargers",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "29.50",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": null,
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/pocket-power-bank-10k.jpg",
+              "altText": "Pocket Power Bank 10K"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0003_01",
+              "title": "Black",
+              "price": {
+                "amount": "29.50",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Black"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "var_0003_02",
+              "title": "White",
+              "price": {
+                "amount": "29.50",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "White"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Black", "White"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0004",
+      "title": "Glow Facial Roller & Gua Sha Set",
+      "description": "A two-piece stone roller and gua sha set for your evening routine. Keep it in the fridge for a cool start to the morning.",
+      "handle": "glow-facial-roller-set",
+      "tags": ["beauty", "skincare", "self-care"],
+      "productType": "Skincare tools",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "19.99",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "26.00",
+          "currencyCode": "USD"
+        }
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/glow-facial-roller-set.jpg",
+              "altText": "Glow Facial Roller & Gua Sha Set"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0004_01",
+              "title": "Default Title",
+              "price": {
+                "amount": "19.99",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": {
+                "amount": "26.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Title",
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0005",
+      "title": "Satin Scrunchie Trio",
+      "description": "Three soft satin scrunchies that are gentle on hair and don't leave creases. Comes in a reusable pouch.",
+      "handle": "silk-scrunchie-trio",
+      "tags": ["beauty", "style", "fashion"],
+      "productType": "Hair accessories",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "14.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": null,
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/silk-scrunchie-trio.jpg",
+              "altText": "Satin Scrunchie Trio"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0005_01",
+              "title": "Neutral",
+              "price": {
+                "amount": "14.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Palette",
+                  "value": "Neutral"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "var_0005_02",
+              "title": "Pastel",
+              "price": {
+                "amount": "14.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Palette",
+                  "value": "Pastel"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Palette",
+          "values": ["Neutral", "Pastel"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0006",
+      "title": "Sunset Projector Lamp",
+      "description": "Casts a warm sunset glow on any wall. Rotates 180 degrees and plugs into any USB port.",
+      "handle": "sunset-projector-lamp",
+      "tags": ["smart-home", "home", "light", "led", "tiktok", "viral"],
+      "productType": "Lighting",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "32.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "45.00",
+          "currencyCode": "USD"
+        }
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/sunset-projector-lamp.jpg",
+              "altText": "Sunset Projector Lamp"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0006_01",
+              "title": "Default Title",
+              "price": {
+                "amount": "32.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": {
+                "amount": "45.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Title",
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0007",
+      "title": "Smart Plug Duo",
+      "description": "Two Wi-Fi plugs to turn lamps and small appliances on schedules. Works with common voice assistants.",
+      "handle": "smart-plug-duo",
+      "tags": ["smart-home", "smart", "home", "wifi"],
+      "productType": "Smart home",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "22.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": null,
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/smart-plug-duo.jpg",
+              "altText": "Smart Plug Duo"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0007_01",
+              "title": "Default Title",
+              "price": {
+                "amount": "22.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Title",
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0008",
+      "title": "Wireless Charging Stand",
+      "description": "A weighted stand that charges your phone upright, so notifications stay readable while you work.",
+      "handle": "wireless-charging-stand",
+      "tags": ["gadget", "tech", "wireless", "desk", "charger"],
+      "productType": "Chargers",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "34.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": null,
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/wireless-charging-stand.jpg",
+              "altText": "Wireless Charging Stand"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0008_01",
+              "title": "Graphite",
+              "price": {
+                "amount": "34.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Graphite"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "var_0008_02",
+              "title": "Silver",
+              "price": {
+                "amount": "34.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Silver"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Graphite", "Silver"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0009",
+      "title": "Insulated Travel Tumbler 20 oz",
+      "description": "Double-wall steel keeps drinks cold for 24 hours or hot for 8. Fits most car cup holders.",
+      "handle": "insulated-travel-tumbler",
+      "tags": ["portable", "travel", "bottle", "tiktok"],
+      "productType": "Drinkware",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "27.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": null,
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/insulated-travel-tumbler.jpg",
+              "altText": "Insulated Travel Tumbler 20 oz"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0009_01",
+              "title": "Seafoam",
+              "price": {
+                "amount": "27.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Seafoam"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "var_0009_02",
+              "title": "Stone",
+              "price": {
+                "amount": "27.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Stone"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "var_0009_03",
+              "title": "Black",
+              "price": {
+                "amount": "27.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Color",
+                  "value": "Black"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Color",
+          "values": ["Seafoam", "Stone", "Black"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0010",
+      "title": "Mini Cordless Vacuum",
+      "description": "A handheld vacuum for crumbs on desks, keyboards and car seats. Washable filter, USB-C charging.",
+      "handle": "mini-cordless-vacuum",
+      "tags": ["gadget", "tiktok", "viral", "car", "desk", "rechargeable"],
+      "productType": "Cleaning",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "42.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": {
+        "minVariantPrice": {
+          "amount": "55.00",
+          "currencyCode": "USD"
+        }
+      },
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/mini-cordless-vacuum.jpg",
+              "altText": "Mini Cordless Vacuum"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0010_01",
+              "title": "Default Title",
+              "price": {
+                "amount": "42.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": {
+                "amount": "55.00",
+                "currencyCode": "USD"
+              },
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Title",
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0011",
+      "title": "Cable Organizer Box",
+      "description": "Hides a power strip and the cable mess around it. Wood-look lid doubles as a small shelf.",
+      "handle": "cable-organizer-box",
+      "tags": ["home", "desk", "organizer", "smart-home"],
+      "productType": "Organization",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "18.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": null,
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/cable-organizer-box.jpg",
+              "altText": "Cable Organizer Box"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0011_01",
+              "title": "Small",
+              "price": {
+                "amount": "18.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "Small"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "var_0011_02",
+              "title": "Large",
+              "price": {
+                "amount": "18.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": false,
+              "selectedOptions": [
+                {
+                  "name": "Size",
+                  "value": "Large"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Size",
+          "values": ["Small", "Large"]
+        }
+      ]
+    },
+    {
+      "id": "prod_0012",
+      "title": "Stoneware Aroma Diffuser",
+      "description": "An ultrasonic diffuser with a stone-look cover and soft night light. Auto shut-off when the water runs out.",
+      "handle": "aroma-diffuser",
+      "tags": ["home", "decor", "smart-home", "beauty", "candle"],
+      "productType": "Home fragrance",
+      "availableForSale": true,
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "36.00",
+          "currencyCode": "USD"
+        }
+      },
+      "compareAtPriceRange": null,
+      "images": {
+        "edges": [
+          {
+            "node": {
+              "url": "/mock/products/aroma-diffuser.jpg",
+              "altText": "Stoneware Aroma Diffuser"
+            }
+          }
+        ]
+      },
+      "variants": {
+        "edges": [
+          {
+            "node": {
+              "id": "var_0012_01",
+              "title": "Default Title",
+              "price": {
+                "amount": "36.00",
+                "currencyCode": "USD"
+              },
+              "compareAtPrice": null,
+              "availableForSale": true,
+              "selectedOptions": [
+                {
+                  "name": "Title",
+                  "value": "Default Title"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        {
+          "name": "Title",
+          "values": ["Default Title"]
+        }
+      ]
+    }
+  ],
+  "customer": {
+    "id": "cus_demo_0001",
+    "name": "Avery Sample",
+    "email": "avery@example.com",
+    "phone": "(555) 010-0199",
+    "address": {
+      "line1": "123 Example Street",
+      "line2": "Apt 4",
+      "city": "Austin",
+      "state": "TX",
+      "postal_code": "73301"
+    },
+    "orderIds": ["ord_00007", "ord_00017", "ord_00010"]
+  },
+  "warehouses": [
+    {
+      "id": "wh_east",
+      "name": "East Hub (fictional)",
+      "city": "Columbus, OH"
+    },
+    {
+      "id": "wh_west",
+      "name": "West Hub (fictional)",
+      "city": "Reno, NV"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_00007",
+      "number": "#TR-1007",
+      "createdAt": "2026-10-14",
+      "customer": "Parker Testwell",
+      "city": "Austin",
+      "state": "TX",
+      "items": [
+        {
+          "productId": "prod_0009",
+          "title": "Insulated Travel Tumbler 20 oz",
+          "variant": "Seafoam",
+          "quantity": 1,
+          "unitPrice": 27.0
+        },
+        {
+          "productId": "prod_0004",
+          "title": "Glow Facial Roller & Gua Sha Set",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 19.99
+        },
+        {
+          "productId": "prod_0010",
+          "title": "Mini Cordless Vacuum",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 42.0
+        }
+      ],
+      "subtotal": 88.99,
+      "shipping": 0,
+      "total": 88.99,
+      "status": "processing",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO3084839399",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00017",
+      "number": "#TR-1017",
+      "createdAt": "2026-10-14",
+      "customer": "Casey Sample",
+      "city": "Phoenix",
+      "state": "AZ",
+      "items": [
+        {
+          "productId": "prod_0002",
+          "title": "Halo LED Desk Lamp",
+          "variant": "White",
+          "quantity": 1,
+          "unitPrice": 39.0
+        }
+      ],
+      "subtotal": 39.0,
+      "shipping": 4.99,
+      "total": 43.99,
+      "status": "label_created",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO2536778950",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00010",
+      "number": "#TR-1010",
+      "createdAt": "2026-10-12",
+      "customer": "Emerson Sample",
+      "city": "Tampa",
+      "state": "FL",
+      "items": [
+        {
+          "productId": "prod_0003",
+          "title": "Pocket Power Bank 10K",
+          "variant": "White",
+          "quantity": 2,
+          "unitPrice": 29.5
+        }
+      ],
+      "subtotal": 59.0,
+      "shipping": 0,
+      "total": 59.0,
+      "status": "out_for_delivery",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO2627677155",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00040",
+      "number": "#TR-1040",
+      "createdAt": "2026-10-11",
+      "customer": "Avery Example",
+      "city": "Portland",
+      "state": "OR",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Neutral",
+          "quantity": 2,
+          "unitPrice": 14.0
+        }
+      ],
+      "subtotal": 28.0,
+      "shipping": 4.99,
+      "total": 32.99,
+      "status": "delivered",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO9824122054",
+      "warehouseId": "wh_west",
+      "transitDays": 3
+    },
+    {
+      "id": "ord_00037",
+      "number": "#TR-1037",
+      "createdAt": "2026-10-08",
+      "customer": "Hayden Doe",
+      "city": "Denver",
+      "state": "CO",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Pastel",
+          "quantity": 2,
+          "unitPrice": 14.0
+        },
+        {
+          "productId": "prod_0006",
+          "title": "Sunset Projector Lamp",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 32.0
+        }
+      ],
+      "subtotal": 60.0,
+      "shipping": 0,
+      "total": 60.0,
+      "status": "out_for_delivery",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO4256292393",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00011",
+      "number": "#TR-1011",
+      "createdAt": "2026-10-06",
+      "customer": "Jordan Mockford",
+      "city": "Columbus",
+      "state": "OH",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Pastel",
+          "quantity": 1,
+          "unitPrice": 14.0
+        },
+        {
+          "productId": "prod_0007",
+          "title": "Smart Plug Duo",
+          "variant": "Default Title",
+          "quantity": 2,
+          "unitPrice": 22.0
+        }
+      ],
+      "subtotal": 58.0,
+      "shipping": 0,
+      "total": 58.0,
+      "status": "processing",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO9805294274",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00039",
+      "number": "#TR-1039",
+      "createdAt": "2026-10-06",
+      "customer": "Quinn Placeholder",
+      "city": "Boise",
+      "state": "ID",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Neutral",
+          "quantity": 1,
+          "unitPrice": 14.0
+        },
+        {
+          "productId": "prod_0004",
+          "title": "Glow Facial Roller & Gua Sha Set",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 19.99
+        }
+      ],
+      "subtotal": 33.99,
+      "shipping": 4.99,
+      "total": 38.98,
+      "status": "in_transit",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO7374584386",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00028",
+      "number": "#TR-1028",
+      "createdAt": "2026-10-04",
+      "customer": "Logan Fictus",
+      "city": "Madison",
+      "state": "WI",
+      "items": [
+        {
+          "productId": "prod_0002",
+          "title": "Halo LED Desk Lamp",
+          "variant": "White",
+          "quantity": 2,
+          "unitPrice": 39.0
+        },
+        {
+          "productId": "prod_0003",
+          "title": "Pocket Power Bank 10K",
+          "variant": "Black",
+          "quantity": 1,
+          "unitPrice": 29.5
+        },
+        {
+          "productId": "prod_0011",
+          "title": "Cable Organizer Box",
+          "variant": "Small",
+          "quantity": 2,
+          "unitPrice": 18.0
+        }
+      ],
+      "subtotal": 143.5,
+      "shipping": 0,
+      "total": 143.5,
+      "status": "delivered",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO7099469983",
+      "warehouseId": "wh_east",
+      "transitDays": 6
+    },
+    {
+      "id": "ord_00009",
+      "number": "#TR-1009",
+      "createdAt": "2026-10-02",
+      "customer": "Parker Demo",
+      "city": "Raleigh",
+      "state": "NC",
+      "items": [
+        {
+          "productId": "prod_0006",
+          "title": "Sunset Projector Lamp",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 32.0
+        },
+        {
+          "productId": "prod_0002",
+          "title": "Halo LED Desk Lamp",
+          "variant": "Graphite",
+          "quantity": 1,
+          "unitPrice": 39.0
+        },
+        {
+          "productId": "prod_0004",
+          "title": "Glow Facial Roller & Gua Sha Set",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 19.99
+        }
+      ],
+      "subtotal": 90.99,
+      "shipping": 0,
+      "total": 90.99,
+      "status": "exception",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO1420514789",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00020",
+      "number": "#TR-1020",
+      "createdAt": "2026-10-02",
+      "customer": "Reese Example",
+      "city": "Austin",
+      "state": "TX",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Pastel",
+          "quantity": 2,
+          "unitPrice": 14.0
+        },
+        {
+          "productId": "prod_0002",
+          "title": "Halo LED Desk Lamp",
+          "variant": "Graphite",
+          "quantity": 2,
+          "unitPrice": 39.0
+        }
+      ],
+      "subtotal": 106.0,
+      "shipping": 0,
+      "total": 106.0,
+      "status": "label_created",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO2140169349",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00029",
+      "number": "#TR-1029",
+      "createdAt": "2026-10-02",
+      "customer": "Reese Fictus",
+      "city": "Tampa",
+      "state": "FL",
+      "items": [
+        {
+          "productId": "prod_0001",
+          "title": "Arc Mini Desk Fan",
+          "variant": "Sand",
+          "quantity": 2,
+          "unitPrice": 24.99
+        },
+        {
+          "productId": "prod_0006",
+          "title": "Sunset Projector Lamp",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 32.0
+        }
+      ],
+      "subtotal": 81.98,
+      "shipping": 0,
+      "total": 81.98,
+      "status": "out_for_delivery",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO5419627962",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00022",
+      "number": "#TR-1022",
+      "createdAt": "2026-10-01",
+      "customer": "Drew Fictus",
+      "city": "Denver",
+      "state": "CO",
+      "items": [
+        {
+          "productId": "prod_0011",
+          "title": "Cable Organizer Box",
+          "variant": "Large",
+          "quantity": 2,
+          "unitPrice": 18.0
+        }
+      ],
+      "subtotal": 36.0,
+      "shipping": 4.99,
+      "total": 40.99,
+      "status": "delivered",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO1546696950",
+      "warehouseId": "wh_west",
+      "transitDays": 5
+    },
+    {
+      "id": "ord_00001",
+      "number": "#TR-1001",
+      "createdAt": "2026-09-30",
+      "customer": "Hayden Fictus",
+      "city": "Boise",
+      "state": "ID",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Neutral",
+          "quantity": 1,
+          "unitPrice": 14.0
+        }
+      ],
+      "subtotal": 14.0,
+      "shipping": 4.99,
+      "total": 18.99,
+      "status": "delivered",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO5284391408",
+      "warehouseId": "wh_west",
+      "transitDays": 2
+    },
+    {
+      "id": "ord_00031",
+      "number": "#TR-1031",
+      "createdAt": "2026-09-30",
+      "customer": "Jordan Mockford",
+      "city": "Tampa",
+      "state": "FL",
+      "items": [
+        {
+          "productId": "prod_0006",
+          "title": "Sunset Projector Lamp",
+          "variant": "Default Title",
+          "quantity": 2,
+          "unitPrice": 32.0
+        },
+        {
+          "productId": "prod_0007",
+          "title": "Smart Plug Duo",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 22.0
+        }
+      ],
+      "subtotal": 86.0,
+      "shipping": 0,
+      "total": 86.0,
+      "status": "processing",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO3792347639",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00033",
+      "number": "#TR-1033",
+      "createdAt": "2026-09-30",
+      "customer": "Emerson Placeholder",
+      "city": "Richmond",
+      "state": "VA",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Neutral",
+          "quantity": 1,
+          "unitPrice": 14.0
+        },
+        {
+          "productId": "prod_0006",
+          "title": "Sunset Projector Lamp",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 32.0
+        },
+        {
+          "productId": "prod_0003",
+          "title": "Pocket Power Bank 10K",
+          "variant": "Black",
+          "quantity": 2,
+          "unitPrice": 29.5
+        }
+      ],
+      "subtotal": 105.0,
+      "shipping": 0,
+      "total": 105.0,
+      "status": "delivered",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO2043030161",
+      "warehouseId": "wh_west",
+      "transitDays": 6
+    },
+    {
+      "id": "ord_00005",
+      "number": "#TR-1005",
+      "createdAt": "2026-09-29",
+      "customer": "Parker Demo",
+      "city": "Columbus",
+      "state": "OH",
+      "items": [
+        {
+          "productId": "prod_0002",
+          "title": "Halo LED Desk Lamp",
+          "variant": "Graphite",
+          "quantity": 2,
+          "unitPrice": 39.0
+        }
+      ],
+      "subtotal": 78.0,
+      "shipping": 0,
+      "total": 78.0,
+      "status": "processing",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO8438486479",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00004",
+      "number": "#TR-1004",
+      "createdAt": "2026-09-28",
+      "customer": "Casey Mockford",
+      "city": "Boise",
+      "state": "ID",
+      "items": [
+        {
+          "productId": "prod_0009",
+          "title": "Insulated Travel Tumbler 20 oz",
+          "variant": "Seafoam",
+          "quantity": 2,
+          "unitPrice": 27.0
+        }
+      ],
+      "subtotal": 54.0,
+      "shipping": 0,
+      "total": 54.0,
+      "status": "out_for_delivery",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO9592390865",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00012",
+      "number": "#TR-1012",
+      "createdAt": "2026-09-28",
+      "customer": "Parker Sample",
+      "city": "Madison",
+      "state": "WI",
+      "items": [
+        {
+          "productId": "prod_0003",
+          "title": "Pocket Power Bank 10K",
+          "variant": "Black",
+          "quantity": 1,
+          "unitPrice": 29.5
+        },
+        {
+          "productId": "prod_0001",
+          "title": "Arc Mini Desk Fan",
+          "variant": "Sage",
+          "quantity": 1,
+          "unitPrice": 24.99
+        },
+        {
+          "productId": "prod_0009",
+          "title": "Insulated Travel Tumbler 20 oz",
+          "variant": "Black",
+          "quantity": 1,
+          "unitPrice": 27.0
+        }
+      ],
+      "subtotal": 81.49,
+      "shipping": 0,
+      "total": 81.49,
+      "status": "label_created",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO5647083348",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00016",
+      "number": "#TR-1016",
+      "createdAt": "2026-09-28",
+      "customer": "Casey Testwell",
+      "city": "Austin",
+      "state": "TX",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Neutral",
+          "quantity": 2,
+          "unitPrice": 14.0
+        },
+        {
+          "productId": "prod_0001",
+          "title": "Arc Mini Desk Fan",
+          "variant": "Sand",
+          "quantity": 1,
+          "unitPrice": 24.99
+        }
+      ],
+      "subtotal": 52.99,
+      "shipping": 0,
+      "total": 52.99,
+      "status": "delivered",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO8478529823",
+      "warehouseId": "wh_west",
+      "transitDays": 6
+    },
+    {
+      "id": "ord_00003",
+      "number": "#TR-1003",
+      "createdAt": "2026-09-27",
+      "customer": "Drew Fictus",
+      "city": "Phoenix",
+      "state": "AZ",
+      "items": [
+        {
+          "productId": "prod_0011",
+          "title": "Cable Organizer Box",
+          "variant": "Small",
+          "quantity": 2,
+          "unitPrice": 18.0
+        }
+      ],
+      "subtotal": 36.0,
+      "shipping": 4.99,
+      "total": 40.99,
+      "status": "label_created",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO2948728483",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00014",
+      "number": "#TR-1014",
+      "createdAt": "2026-09-27",
+      "customer": "Parker Mockford",
+      "city": "Phoenix",
+      "state": "AZ",
+      "items": [
+        {
+          "productId": "prod_0009",
+          "title": "Insulated Travel Tumbler 20 oz",
+          "variant": "Stone",
+          "quantity": 1,
+          "unitPrice": 27.0
+        }
+      ],
+      "subtotal": 27.0,
+      "shipping": 4.99,
+      "total": 31.99,
+      "status": "label_created",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO5972484792",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00015",
+      "number": "#TR-1015",
+      "createdAt": "2026-09-25",
+      "customer": "Reese Testwell",
+      "city": "Boise",
+      "state": "ID",
+      "items": [
+        {
+          "productId": "prod_0009",
+          "title": "Insulated Travel Tumbler 20 oz",
+          "variant": "Stone",
+          "quantity": 1,
+          "unitPrice": 27.0
+        },
+        {
+          "productId": "prod_0001",
+          "title": "Arc Mini Desk Fan",
+          "variant": "Sage",
+          "quantity": 2,
+          "unitPrice": 24.99
+        },
+        {
+          "productId": "prod_0012",
+          "title": "Stoneware Aroma Diffuser",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 36.0
+        }
+      ],
+      "subtotal": 112.98,
+      "shipping": 0,
+      "total": 112.98,
+      "status": "in_transit",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO2472659626",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00021",
+      "number": "#TR-1021",
+      "createdAt": "2026-09-25",
+      "customer": "Hayden Sample",
+      "city": "Raleigh",
+      "state": "NC",
+      "items": [
+        {
+          "productId": "prod_0006",
+          "title": "Sunset Projector Lamp",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 32.0
+        },
+        {
+          "productId": "prod_0012",
+          "title": "Stoneware Aroma Diffuser",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 36.0
+        }
+      ],
+      "subtotal": 68.0,
+      "shipping": 0,
+      "total": 68.0,
+      "status": "processing",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO3880327491",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00025",
+      "number": "#TR-1025",
+      "createdAt": "2026-09-25",
+      "customer": "Emerson Placeholder",
+      "city": "Madison",
+      "state": "WI",
+      "items": [
+        {
+          "productId": "prod_0008",
+          "title": "Wireless Charging Stand",
+          "variant": "Silver",
+          "quantity": 1,
+          "unitPrice": 34.0
+        }
+      ],
+      "subtotal": 34.0,
+      "shipping": 4.99,
+      "total": 38.99,
+      "status": "exception",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO2825989011",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00038",
+      "number": "#TR-1038",
+      "createdAt": "2026-09-24",
+      "customer": "Sawyer Mockford",
+      "city": "Raleigh",
+      "state": "NC",
+      "items": [
+        {
+          "productId": "prod_0008",
+          "title": "Wireless Charging Stand",
+          "variant": "Graphite",
+          "quantity": 2,
+          "unitPrice": 34.0
+        },
+        {
+          "productId": "prod_0012",
+          "title": "Stoneware Aroma Diffuser",
+          "variant": "Default Title",
+          "quantity": 2,
+          "unitPrice": 36.0
+        },
+        {
+          "productId": "prod_0001",
+          "title": "Arc Mini Desk Fan",
+          "variant": "Charcoal",
+          "quantity": 1,
+          "unitPrice": 24.99
+        }
+      ],
+      "subtotal": 164.99,
+      "shipping": 0,
+      "total": 164.99,
+      "status": "delivered",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO7658867789",
+      "warehouseId": "wh_west",
+      "transitDays": 5
+    },
+    {
+      "id": "ord_00018",
+      "number": "#TR-1018",
+      "createdAt": "2026-09-23",
+      "customer": "Taylor Fictus",
+      "city": "Columbus",
+      "state": "OH",
+      "items": [
+        {
+          "productId": "prod_0006",
+          "title": "Sunset Projector Lamp",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 32.0
+        }
+      ],
+      "subtotal": 32.0,
+      "shipping": 4.99,
+      "total": 36.99,
+      "status": "in_transit",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO9265609985",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00023",
+      "number": "#TR-1023",
+      "createdAt": "2026-09-23",
+      "customer": "Logan Doe",
+      "city": "Madison",
+      "state": "WI",
+      "items": [
+        {
+          "productId": "prod_0003",
+          "title": "Pocket Power Bank 10K",
+          "variant": "White",
+          "quantity": 2,
+          "unitPrice": 29.5
+        },
+        {
+          "productId": "prod_0010",
+          "title": "Mini Cordless Vacuum",
+          "variant": "Default Title",
+          "quantity": 2,
+          "unitPrice": 42.0
+        },
+        {
+          "productId": "prod_0011",
+          "title": "Cable Organizer Box",
+          "variant": "Large",
+          "quantity": 1,
+          "unitPrice": 18.0
+        }
+      ],
+      "subtotal": 161.0,
+      "shipping": 0,
+      "total": 161.0,
+      "status": "delivered",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO3901796894",
+      "warehouseId": "wh_west",
+      "transitDays": 3
+    },
+    {
+      "id": "ord_00024",
+      "number": "#TR-1024",
+      "createdAt": "2026-09-23",
+      "customer": "Parker Placeholder",
+      "city": "Columbus",
+      "state": "OH",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Pastel",
+          "quantity": 1,
+          "unitPrice": 14.0
+        }
+      ],
+      "subtotal": 14.0,
+      "shipping": 4.99,
+      "total": 18.99,
+      "status": "delivered",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO1104906255",
+      "warehouseId": "wh_east",
+      "transitDays": 5
+    },
+    {
+      "id": "ord_00030",
+      "number": "#TR-1030",
+      "createdAt": "2026-09-23",
+      "customer": "Taylor Sample",
+      "city": "Portland",
+      "state": "OR",
+      "items": [
+        {
+          "productId": "prod_0007",
+          "title": "Smart Plug Duo",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 22.0
+        },
+        {
+          "productId": "prod_0003",
+          "title": "Pocket Power Bank 10K",
+          "variant": "White",
+          "quantity": 1,
+          "unitPrice": 29.5
+        },
+        {
+          "productId": "prod_0008",
+          "title": "Wireless Charging Stand",
+          "variant": "Graphite",
+          "quantity": 2,
+          "unitPrice": 34.0
+        }
+      ],
+      "subtotal": 119.5,
+      "shipping": 0,
+      "total": 119.5,
+      "status": "exception",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO6923206003",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00008",
+      "number": "#TR-1008",
+      "createdAt": "2026-09-21",
+      "customer": "Hayden Doe",
+      "city": "Phoenix",
+      "state": "AZ",
+      "items": [
+        {
+          "productId": "prod_0010",
+          "title": "Mini Cordless Vacuum",
+          "variant": "Default Title",
+          "quantity": 2,
+          "unitPrice": 42.0
+        },
+        {
+          "productId": "prod_0008",
+          "title": "Wireless Charging Stand",
+          "variant": "Graphite",
+          "quantity": 1,
+          "unitPrice": 34.0
+        },
+        {
+          "productId": "prod_0004",
+          "title": "Glow Facial Roller & Gua Sha Set",
+          "variant": "Default Title",
+          "quantity": 2,
+          "unitPrice": 19.99
+        }
+      ],
+      "subtotal": 157.98,
+      "shipping": 0,
+      "total": 157.98,
+      "status": "delivered",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO9822598054",
+      "warehouseId": "wh_east",
+      "transitDays": 2
+    },
+    {
+      "id": "ord_00002",
+      "number": "#TR-1002",
+      "createdAt": "2026-09-20",
+      "customer": "Emerson Fictus",
+      "city": "Madison",
+      "state": "WI",
+      "items": [
+        {
+          "productId": "prod_0002",
+          "title": "Halo LED Desk Lamp",
+          "variant": "White",
+          "quantity": 1,
+          "unitPrice": 39.0
+        }
+      ],
+      "subtotal": 39.0,
+      "shipping": 4.99,
+      "total": 43.99,
+      "status": "label_created",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO9573276057",
+      "warehouseId": "wh_west",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00006",
+      "number": "#TR-1006",
+      "createdAt": "2026-09-20",
+      "customer": "Logan Doe",
+      "city": "Madison",
+      "state": "WI",
+      "items": [
+        {
+          "productId": "prod_0003",
+          "title": "Pocket Power Bank 10K",
+          "variant": "Black",
+          "quantity": 2,
+          "unitPrice": 29.5
+        },
+        {
+          "productId": "prod_0012",
+          "title": "Stoneware Aroma Diffuser",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 36.0
+        },
+        {
+          "productId": "prod_0008",
+          "title": "Wireless Charging Stand",
+          "variant": "Graphite",
+          "quantity": 2,
+          "unitPrice": 34.0
+        }
+      ],
+      "subtotal": 163.0,
+      "shipping": 0,
+      "total": 163.0,
+      "status": "delivered",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO2064746525",
+      "warehouseId": "wh_east",
+      "transitDays": 4
+    },
+    {
+      "id": "ord_00027",
+      "number": "#TR-1027",
+      "createdAt": "2026-09-20",
+      "customer": "Logan Demo",
+      "city": "Columbus",
+      "state": "OH",
+      "items": [
+        {
+          "productId": "prod_0011",
+          "title": "Cable Organizer Box",
+          "variant": "Large",
+          "quantity": 2,
+          "unitPrice": 18.0
+        }
+      ],
+      "subtotal": 36.0,
+      "shipping": 4.99,
+      "total": 40.99,
+      "status": "delivered",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO2227193073",
+      "warehouseId": "wh_west",
+      "transitDays": 4
+    },
+    {
+      "id": "ord_00032",
+      "number": "#TR-1032",
+      "createdAt": "2026-09-20",
+      "customer": "Parker Example",
+      "city": "Richmond",
+      "state": "VA",
+      "items": [
+        {
+          "productId": "prod_0004",
+          "title": "Glow Facial Roller & Gua Sha Set",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 19.99
+        }
+      ],
+      "subtotal": 19.99,
+      "shipping": 4.99,
+      "total": 24.98,
+      "status": "in_transit",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO3875303857",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00019",
+      "number": "#TR-1019",
+      "createdAt": "2026-09-19",
+      "customer": "Rowan Testwell",
+      "city": "Columbus",
+      "state": "OH",
+      "items": [
+        {
+          "productId": "prod_0012",
+          "title": "Stoneware Aroma Diffuser",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 36.0
+        },
+        {
+          "productId": "prod_0004",
+          "title": "Glow Facial Roller & Gua Sha Set",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 19.99
+        },
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Pastel",
+          "quantity": 1,
+          "unitPrice": 14.0
+        }
+      ],
+      "subtotal": 69.99,
+      "shipping": 0,
+      "total": 69.99,
+      "status": "exception",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO1957449367",
+      "warehouseId": "wh_east",
+      "transitDays": null
+    },
+    {
+      "id": "ord_00026",
+      "number": "#TR-1026",
+      "createdAt": "2026-09-19",
+      "customer": "Logan Fictus",
+      "city": "Boise",
+      "state": "ID",
+      "items": [
+        {
+          "productId": "prod_0009",
+          "title": "Insulated Travel Tumbler 20 oz",
+          "variant": "Black",
+          "quantity": 1,
+          "unitPrice": 27.0
+        },
+        {
+          "productId": "prod_0008",
+          "title": "Wireless Charging Stand",
+          "variant": "Graphite",
+          "quantity": 2,
+          "unitPrice": 34.0
+        },
+        {
+          "productId": "prod_0001",
+          "title": "Arc Mini Desk Fan",
+          "variant": "Sage",
+          "quantity": 2,
+          "unitPrice": 24.99
+        }
+      ],
+      "subtotal": 144.98,
+      "shipping": 0,
+      "total": 144.98,
+      "status": "delivered",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO8995059760",
+      "warehouseId": "wh_west",
+      "transitDays": 4
+    },
+    {
+      "id": "ord_00034",
+      "number": "#TR-1034",
+      "createdAt": "2026-09-19",
+      "customer": "Rowan Demo",
+      "city": "Boise",
+      "state": "ID",
+      "items": [
+        {
+          "productId": "prod_0010",
+          "title": "Mini Cordless Vacuum",
+          "variant": "Default Title",
+          "quantity": 2,
+          "unitPrice": 42.0
+        }
+      ],
+      "subtotal": 84.0,
+      "shipping": 0,
+      "total": 84.0,
+      "status": "delivered",
+      "carrier": "FedEx Home",
+      "trackingNumber": "DEMO8076144396",
+      "warehouseId": "wh_east",
+      "transitDays": 5
+    },
+    {
+      "id": "ord_00035",
+      "number": "#TR-1035",
+      "createdAt": "2026-09-18",
+      "customer": "Sawyer Doe",
+      "city": "Portland",
+      "state": "OR",
+      "items": [
+        {
+          "productId": "prod_0002",
+          "title": "Halo LED Desk Lamp",
+          "variant": "Graphite",
+          "quantity": 2,
+          "unitPrice": 39.0
+        },
+        {
+          "productId": "prod_0007",
+          "title": "Smart Plug Duo",
+          "variant": "Default Title",
+          "quantity": 2,
+          "unitPrice": 22.0
+        }
+      ],
+      "subtotal": 122.0,
+      "shipping": 0,
+      "total": 122.0,
+      "status": "delivered",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO7839626408",
+      "warehouseId": "wh_west",
+      "transitDays": 3
+    },
+    {
+      "id": "ord_00036",
+      "number": "#TR-1036",
+      "createdAt": "2026-09-18",
+      "customer": "Skyler Sample",
+      "city": "Tampa",
+      "state": "FL",
+      "items": [
+        {
+          "productId": "prod_0005",
+          "title": "Satin Scrunchie Trio",
+          "variant": "Pastel",
+          "quantity": 1,
+          "unitPrice": 14.0
+        }
+      ],
+      "subtotal": 14.0,
+      "shipping": 4.99,
+      "total": 18.99,
+      "status": "delivered",
+      "carrier": "USPS Priority",
+      "trackingNumber": "DEMO8949781901",
+      "warehouseId": "wh_east",
+      "transitDays": 5
+    },
+    {
+      "id": "ord_00013",
+      "number": "#TR-1013",
+      "createdAt": "2026-09-15",
+      "customer": "Logan Mockford",
+      "city": "Portland",
+      "state": "OR",
+      "items": [
+        {
+          "productId": "prod_0004",
+          "title": "Glow Facial Roller & Gua Sha Set",
+          "variant": "Default Title",
+          "quantity": 1,
+          "unitPrice": 19.99
+        },
+        {
+          "productId": "prod_0011",
+          "title": "Cable Organizer Box",
+          "variant": "Large",
+          "quantity": 2,
+          "unitPrice": 18.0
+        }
+      ],
+      "subtotal": 55.99,
+      "shipping": 0,
+      "total": 55.99,
+      "status": "delivered",
+      "carrier": "UPS Ground",
+      "trackingNumber": "DEMO5334976883",
+      "warehouseId": "wh_east",
+      "transitDays": 2
+    }
+  ],
+  "inventory": [
+    {
+      "sku": "SKU-0001_01",
+      "productId": "prod_0001",
+      "title": "Arc Mini Desk Fan",
+      "variant": "Sage",
+      "warehouseId": "wh_east",
+      "onHand": 167,
+      "reorderPoint": 20,
+      "inbound": 48
+    },
+    {
+      "sku": "SKU-0001_01",
+      "productId": "prod_0001",
+      "title": "Arc Mini Desk Fan",
+      "variant": "Sage",
+      "warehouseId": "wh_west",
+      "onHand": 30,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0001_02",
+      "productId": "prod_0001",
+      "title": "Arc Mini Desk Fan",
+      "variant": "Sand",
+      "warehouseId": "wh_east",
+      "onHand": 150,
+      "reorderPoint": 20,
+      "inbound": 24
+    },
+    {
+      "sku": "SKU-0001_02",
+      "productId": "prod_0001",
+      "title": "Arc Mini Desk Fan",
+      "variant": "Sand",
+      "warehouseId": "wh_west",
+      "onHand": 124,
+      "reorderPoint": 20,
+      "inbound": 48
+    },
+    {
+      "sku": "SKU-0001_03",
+      "productId": "prod_0001",
+      "title": "Arc Mini Desk Fan",
+      "variant": "Charcoal",
+      "warehouseId": "wh_east",
+      "onHand": 116,
+      "reorderPoint": 20,
+      "inbound": 24
+    },
+    {
+      "sku": "SKU-0001_03",
+      "productId": "prod_0001",
+      "title": "Arc Mini Desk Fan",
+      "variant": "Charcoal",
+      "warehouseId": "wh_west",
+      "onHand": 51,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0002_01",
+      "productId": "prod_0002",
+      "title": "Halo LED Desk Lamp",
+      "variant": "White",
+      "warehouseId": "wh_east",
+      "onHand": 68,
+      "reorderPoint": 20,
+      "inbound": 48
+    },
+    {
+      "sku": "SKU-0002_01",
+      "productId": "prod_0002",
+      "title": "Halo LED Desk Lamp",
+      "variant": "White",
+      "warehouseId": "wh_west",
+      "onHand": 33,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0002_02",
+      "productId": "prod_0002",
+      "title": "Halo LED Desk Lamp",
+      "variant": "Graphite",
+      "warehouseId": "wh_east",
+      "onHand": 106,
+      "reorderPoint": 20,
+      "inbound": 48
+    },
+    {
+      "sku": "SKU-0002_02",
+      "productId": "prod_0002",
+      "title": "Halo LED Desk Lamp",
+      "variant": "Graphite",
+      "warehouseId": "wh_west",
+      "onHand": 22,
+      "reorderPoint": 20,
+      "inbound": 96
+    },
+    {
+      "sku": "SKU-0003_01",
+      "productId": "prod_0003",
+      "title": "Pocket Power Bank 10K",
+      "variant": "Black",
+      "warehouseId": "wh_east",
+      "onHand": 165,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0003_01",
+      "productId": "prod_0003",
+      "title": "Pocket Power Bank 10K",
+      "variant": "Black",
+      "warehouseId": "wh_west",
+      "onHand": 42,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0003_02",
+      "productId": "prod_0003",
+      "title": "Pocket Power Bank 10K",
+      "variant": "White",
+      "warehouseId": "wh_east",
+      "onHand": 148,
+      "reorderPoint": 20,
+      "inbound": 24
+    },
+    {
+      "sku": "SKU-0003_02",
+      "productId": "prod_0003",
+      "title": "Pocket Power Bank 10K",
+      "variant": "White",
+      "warehouseId": "wh_west",
+      "onHand": 25,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0004_01",
+      "productId": "prod_0004",
+      "title": "Glow Facial Roller & Gua Sha Set",
+      "variant": "Default Title",
+      "warehouseId": "wh_east",
+      "onHand": 34,
+      "reorderPoint": 20,
+      "inbound": 96
+    },
+    {
+      "sku": "SKU-0004_01",
+      "productId": "prod_0004",
+      "title": "Glow Facial Roller & Gua Sha Set",
+      "variant": "Default Title",
+      "warehouseId": "wh_west",
+      "onHand": 110,
+      "reorderPoint": 20,
+      "inbound": 96
+    },
+    {
+      "sku": "SKU-0005_01",
+      "productId": "prod_0005",
+      "title": "Satin Scrunchie Trio",
+      "variant": "Neutral",
+      "warehouseId": "wh_east",
+      "onHand": 156,
+      "reorderPoint": 20,
+      "inbound": 96
+    },
+    {
+      "sku": "SKU-0005_01",
+      "productId": "prod_0005",
+      "title": "Satin Scrunchie Trio",
+      "variant": "Neutral",
+      "warehouseId": "wh_west",
+      "onHand": 61,
+      "reorderPoint": 20,
+      "inbound": 96
+    },
+    {
+      "sku": "SKU-0005_02",
+      "productId": "prod_0005",
+      "title": "Satin Scrunchie Trio",
+      "variant": "Pastel",
+      "warehouseId": "wh_east",
+      "onHand": 101,
+      "reorderPoint": 20,
+      "inbound": 48
+    },
+    {
+      "sku": "SKU-0005_02",
+      "productId": "prod_0005",
+      "title": "Satin Scrunchie Trio",
+      "variant": "Pastel",
+      "warehouseId": "wh_west",
+      "onHand": 117,
+      "reorderPoint": 20,
+      "inbound": 24
+    },
+    {
+      "sku": "SKU-0006_01",
+      "productId": "prod_0006",
+      "title": "Sunset Projector Lamp",
+      "variant": "Default Title",
+      "warehouseId": "wh_east",
+      "onHand": 154,
+      "reorderPoint": 20,
+      "inbound": 48
+    },
+    {
+      "sku": "SKU-0006_01",
+      "productId": "prod_0006",
+      "title": "Sunset Projector Lamp",
+      "variant": "Default Title",
+      "warehouseId": "wh_west",
+      "onHand": 82,
+      "reorderPoint": 20,
+      "inbound": 96
+    },
+    {
+      "sku": "SKU-0007_01",
+      "productId": "prod_0007",
+      "title": "Smart Plug Duo",
+      "variant": "Default Title",
+      "warehouseId": "wh_east",
+      "onHand": 162,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0007_01",
+      "productId": "prod_0007",
+      "title": "Smart Plug Duo",
+      "variant": "Default Title",
+      "warehouseId": "wh_west",
+      "onHand": 160,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0008_01",
+      "productId": "prod_0008",
+      "title": "Wireless Charging Stand",
+      "variant": "Graphite",
+      "warehouseId": "wh_east",
+      "onHand": 57,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0008_01",
+      "productId": "prod_0008",
+      "title": "Wireless Charging Stand",
+      "variant": "Graphite",
+      "warehouseId": "wh_west",
+      "onHand": 71,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0008_02",
+      "productId": "prod_0008",
+      "title": "Wireless Charging Stand",
+      "variant": "Silver",
+      "warehouseId": "wh_east",
+      "onHand": 44,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0008_02",
+      "productId": "prod_0008",
+      "title": "Wireless Charging Stand",
+      "variant": "Silver",
+      "warehouseId": "wh_west",
+      "onHand": 48,
+      "reorderPoint": 20,
+      "inbound": 96
+    },
+    {
+      "sku": "SKU-0009_01",
+      "productId": "prod_0009",
+      "title": "Insulated Travel Tumbler 20 oz",
+      "variant": "Seafoam",
+      "warehouseId": "wh_east",
+      "onHand": 23,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0009_01",
+      "productId": "prod_0009",
+      "title": "Insulated Travel Tumbler 20 oz",
+      "variant": "Seafoam",
+      "warehouseId": "wh_west",
+      "onHand": 4,
+      "reorderPoint": 20,
+      "inbound": 48
+    },
+    {
+      "sku": "SKU-0009_02",
+      "productId": "prod_0009",
+      "title": "Insulated Travel Tumbler 20 oz",
+      "variant": "Stone",
+      "warehouseId": "wh_east",
+      "onHand": 119,
+      "reorderPoint": 20,
+      "inbound": 96
+    },
+    {
+      "sku": "SKU-0009_02",
+      "productId": "prod_0009",
+      "title": "Insulated Travel Tumbler 20 oz",
+      "variant": "Stone",
+      "warehouseId": "wh_west",
+      "onHand": 124,
+      "reorderPoint": 20,
+      "inbound": 24
+    },
+    {
+      "sku": "SKU-0009_03",
+      "productId": "prod_0009",
+      "title": "Insulated Travel Tumbler 20 oz",
+      "variant": "Black",
+      "warehouseId": "wh_east",
+      "onHand": 12,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0009_03",
+      "productId": "prod_0009",
+      "title": "Insulated Travel Tumbler 20 oz",
+      "variant": "Black",
+      "warehouseId": "wh_west",
+      "onHand": 77,
+      "reorderPoint": 20,
+      "inbound": 24
+    },
+    {
+      "sku": "SKU-0010_01",
+      "productId": "prod_0010",
+      "title": "Mini Cordless Vacuum",
+      "variant": "Default Title",
+      "warehouseId": "wh_east",
+      "onHand": 120,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0010_01",
+      "productId": "prod_0010",
+      "title": "Mini Cordless Vacuum",
+      "variant": "Default Title",
+      "warehouseId": "wh_west",
+      "onHand": 179,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0011_01",
+      "productId": "prod_0011",
+      "title": "Cable Organizer Box",
+      "variant": "Small",
+      "warehouseId": "wh_east",
+      "onHand": 71,
+      "reorderPoint": 20,
+      "inbound": 96
+    },
+    {
+      "sku": "SKU-0011_01",
+      "productId": "prod_0011",
+      "title": "Cable Organizer Box",
+      "variant": "Small",
+      "warehouseId": "wh_west",
+      "onHand": 173,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0011_02",
+      "productId": "prod_0011",
+      "title": "Cable Organizer Box",
+      "variant": "Large",
+      "warehouseId": "wh_east",
+      "onHand": 0,
+      "reorderPoint": 20,
+      "inbound": 48
+    },
+    {
+      "sku": "SKU-0011_02",
+      "productId": "prod_0011",
+      "title": "Cable Organizer Box",
+      "variant": "Large",
+      "warehouseId": "wh_west",
+      "onHand": 0,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0012_01",
+      "productId": "prod_0012",
+      "title": "Stoneware Aroma Diffuser",
+      "variant": "Default Title",
+      "warehouseId": "wh_east",
+      "onHand": 143,
+      "reorderPoint": 20,
+      "inbound": 0
+    },
+    {
+      "sku": "SKU-0012_01",
+      "productId": "prod_0012",
+      "title": "Stoneware Aroma Diffuser",
+      "variant": "Default Title",
+      "warehouseId": "wh_west",
+      "onHand": 169,
+      "reorderPoint": 20,
+      "inbound": 0
+    }
+  ],
+  "dailyMetrics": [
+    {
+      "date": "2026-09-15",
+      "orders": 15,
+      "revenue": 535.2,
+      "visitors": 465
+    },
+    {
+      "date": "2026-09-16",
+      "orders": 15,
+      "revenue": 500.55,
+      "visitors": 435
+    },
+    {
+      "date": "2026-09-17",
+      "orders": 12,
+      "revenue": 389.76,
+      "visitors": 408
+    },
+    {
+      "date": "2026-09-18",
+      "orders": 8,
+      "revenue": 252.32,
+      "visitors": 232
+    },
+    {
+      "date": "2026-09-19",
+      "orders": 22,
+      "revenue": 691.9,
+      "visitors": 682
+    },
+    {
+      "date": "2026-09-20",
+      "orders": 26,
+      "revenue": 1122.42,
+      "visitors": 1014
+    },
+    {
+      "date": "2026-09-21",
+      "orders": 13,
+      "revenue": 533.26,
+      "visitors": 520
+    },
+    {
+      "date": "2026-09-22",
+      "orders": 15,
+      "revenue": 686.7,
+      "visitors": 600
+    },
+    {
+      "date": "2026-09-23",
+      "orders": 18,
+      "revenue": 662.04,
+      "visitors": 540
+    },
+    {
+      "date": "2026-09-24",
+      "orders": 10,
+      "revenue": 346.6,
+      "visitors": 400
+    },
+    {
+      "date": "2026-09-25",
+      "orders": 15,
+      "revenue": 489.6,
+      "visitors": 495
+    },
+    {
+      "date": "2026-09-26",
+      "orders": 23,
+      "revenue": 948.98,
+      "visitors": 920
+    },
+    {
+      "date": "2026-09-27",
+      "orders": 26,
+      "revenue": 861.12,
+      "visitors": 884
+    },
+    {
+      "date": "2026-09-28",
+      "orders": 17,
+      "revenue": 549.78,
+      "visitors": 544
+    },
+    {
+      "date": "2026-09-29",
+      "orders": 18,
+      "revenue": 821.7,
+      "visitors": 666
+    },
+    {
+      "date": "2026-09-30",
+      "orders": 11,
+      "revenue": 376.97,
+      "visitors": 319
+    },
+    {
+      "date": "2026-10-01",
+      "orders": 18,
+      "revenue": 646.56,
+      "visitors": 522
+    },
+    {
+      "date": "2026-10-02",
+      "orders": 16,
+      "revenue": 728.64,
+      "visitors": 464
+    },
+    {
+      "date": "2026-10-03",
+      "orders": 18,
+      "revenue": 813.24,
+      "visitors": 540
+    },
+    {
+      "date": "2026-10-04",
+      "orders": 25,
+      "revenue": 932.25,
+      "visitors": 775
+    },
+    {
+      "date": "2026-10-05",
+      "orders": 13,
+      "revenue": 554.06,
+      "visitors": 377
+    },
+    {
+      "date": "2026-10-06",
+      "orders": 10,
+      "revenue": 413.6,
+      "visitors": 300
+    },
+    {
+      "date": "2026-10-07",
+      "orders": 13,
+      "revenue": 505.18,
+      "visitors": 416
+    },
+    {
+      "date": "2026-10-08",
+      "orders": 15,
+      "revenue": 717.3,
+      "visitors": 570
+    },
+    {
+      "date": "2026-10-09",
+      "orders": 14,
+      "revenue": 511.14,
+      "visitors": 560
+    },
+    {
+      "date": "2026-10-10",
+      "orders": 19,
+      "revenue": 839.61,
+      "visitors": 589
+    },
+    {
+      "date": "2026-10-11",
+      "orders": 25,
+      "revenue": 945.5,
+      "visitors": 725
+    },
+    {
+      "date": "2026-10-12",
+      "orders": 9,
+      "revenue": 311.31,
+      "visitors": 333
+    },
+    {
+      "date": "2026-10-13",
+      "orders": 18,
+      "revenue": 758.52,
+      "visitors": 612
+    },
+    {
+      "date": "2026-10-14",
+      "orders": 13,
+      "revenue": 598.52,
+      "visitors": 494
+    }
+  ]
+}
