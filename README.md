@@ -51,7 +51,7 @@ A full-stack e-commerce storefront for a US-market "curated gadgets & home finds
 **Requirements:** Node.js 20+ and [Bun](https://bun.sh) (or npm).
 
 ```sh
-git clone https://github.com/<your-username>/trove-storefront.git
+git clone https://github.com/kaynan01/trove-storefront.git
 cd trove-storefront
 bun install          # or: npm install
 cp .env.example .env # optional — every value has a fictional default
